@@ -1,0 +1,21 @@
+AMIRHOSSEIN NAZARZADEH STANDALONE QA
+Texts: 1000
+Direct: 400
+Replies: 300
+Quotes: 300
+Reply List1: 210 (70%)
+Reply List2 valid links: 90 (30%)
+Quotes from List1: 300
+Malformed SenTomCotton status excluded: yes
+All X visible payloads <=280: yes
+All texts include English name hashtag: yes
+All texts include Persian name hashtag: yes
+All texts include #StopExecutionsInIran: yes
+Mentions <=2: yes
+Exact duplicates: 0
+Opening duplicate 5/6/7/8-word sequences: {5: 0, 6: 0, 7: 0, 8: 0}
+Repeated middle 8/9/10-word sequences detected: {8: 1470, 9: 1082, 10: 754}
+Posters: 15 English + 1 Persian
+Real images: 3
+Public source-list block: none
+Government accusations are attributed, not treated as proven facts. Group-level coercion/torture concerns are framed at group level.
